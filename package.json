@@ -1,0 +1,14 @@
+﻿{
+  "name": "SLRRMultiplayer",
+  "version": "0.1.0",
+  "description": "SLRRMultiplayer",
+  "main": "app.js",
+  "author": {
+    "name": "Andrey Nedobylsky",
+    "email": "admin@twister-vl.ru"
+  },
+  "dependencies" : {
+	"dnode" : "~1.2.0",
+	"frida" : "~3.0.1"
+	},
+}
