@@ -1,1 +1,1 @@
-xcopy /E /Y src\* ..
+xcopy /E /Y src\sl\* ..\sl
