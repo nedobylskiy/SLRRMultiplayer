@@ -1,5 +1,5 @@
 # Notice: Development of open source version SLRR:MP frozen
-# Pull requests still accepting
+## Pull requests still accepting
 
 # SLRRMultiplayer
 
